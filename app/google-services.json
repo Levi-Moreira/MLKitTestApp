@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "144511358317",
+    "firebase_url": "https://mlkit-d5f20.firebaseio.com",
+    "project_id": "mlkit-d5f20",
+    "storage_bucket": "mlkit-d5f20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144511358317:android:bd93cb2465121699",
+        "android_client_info": {
+          "package_name": "br.com.mockap.mlkittestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144511358317-3hoa6ekj6sba77ilsu5g6n2nvpl442jm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkEkBZ9hGVaiMlqUQK71JP7bDllkJ4oKw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
